@@ -35,7 +35,7 @@
 	 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" charset="utf-8"></script>
 	 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
 
-    <title>Insro-vFindfit</title>
+    <title>INSROW</title>
   </head>
   <style>
     *{
@@ -103,7 +103,7 @@ footer{
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
-        <li class="nav-item active">
+        <li class="nav-item">
           <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
@@ -213,6 +213,12 @@ $('#myList a[href="#profile"]').tab('show') // Select tab by name
 $('#myList a:first-child').tab('show') // Select first tab
 $('#myList a:last-child').tab('show') // Select last tab
 $('#myList a:nth-child(3)').tab('show') // Select third tab
+    </script>
+			     <script>
+      $(function () {
+      
+        $('#navbarNavDropdown ul li:last-child a').tab('show')
+      })
     </script>
       <!-- Optional JavaScript; choose one of the two! -->
   
