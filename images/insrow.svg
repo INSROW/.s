@@ -1,18 +1,18 @@
-<svg width="799.9999999999999" height="600" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="960.0000000000001" xmlns="http://www.w3.org/2000/svg">
  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
 
  <g>
   <title>background</title>
-  <rect x="-1" y="-1" width="802" height="602" id="canvas_background" fill="none"/>
+  <rect x="-1" y="-1" width="1282" height="962" id="canvas_background" fill="none"/>
   <g id="canvasGrid" display="none">
    <rect id="svg_2" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
   </g>
  </g>
  <g>
   <title>Layer 1</title>
-  <ellipse stroke="#000" fill="#000000" stroke-width="1.5" cx="430.38532" cy="316.55849" id="svg_1" rx="271.03708" ry="275.50546"/>
-  <text fill="#ffffff" stroke-width="0" x="369.27634" y="279.78792" id="svg_3" font-size="24" font-family="Junction, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(10.329928379417902,0,0,9.937877338114179,-3487.440470954139,-2388.0728653481465) " stroke="#000">i</text>
-  <text fill="#ffffff" stroke-width="0" x="426.39023" y="295.6891" id="svg_4" font-size="24" font-family="Junction, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(8.746468005927,0,0,9.0718759810228,-3350.3133437691454,-2295.459064190798) " stroke="#000">w</text>
-  <text fill="#ffffff" stroke-width="0" stroke-opacity="null" x="629.6135" y="217.67173" id="svg_5" font-size="24" font-family="Junction, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.8901978130473935,0,0,0.947784529627718,-20.10402693446042,45.006181380659996) " stroke="#000">TM</text>
+  <ellipse stroke="#000" fill="#000000" stroke-width="1.5" cx="696.89129" cy="474.85502" id="svg_1" rx="439.51722" ry="461.2194"/>
+  <text fill="#ffffff" stroke-width="0" x="380.5597" y="280.07904" id="svg_3" font-size="24" font-family="Junction, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(18.809950921302267,0,0,21.029585608006986,-6679.0998404043,-5261.097818067227) " stroke="#000">i</text>
+  <text fill="#ffffff" stroke-width="0" x="436.97245" y="298.39634" id="svg_4" font-size="24" font-family="Junction, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(18.184987146962705,0,0,17.2831509321958,-7357.879337645218,-4558.153960304317) " stroke="#000">w</text>
+  <text fill="#ffffff" stroke-width="0" stroke-opacity="null" x="1026.21316" y="301.64629" id="svg_5" font-size="24" font-family="Junction, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.8901978130473935,0,0,0.947784529627718,-20.10402693446042,45.006181380659996) " stroke="#000">TM</text>
  </g>
 </svg>
